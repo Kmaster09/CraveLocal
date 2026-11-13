@@ -1,0 +1,20 @@
+
+{
+  "expo": {
+    "name": "CraveLocal",
+    "slug": "cravelocal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "cravelocal",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
